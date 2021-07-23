@@ -25,9 +25,9 @@ documents for family
      href="https://qiita.com/nfukuoka">
     <span property="dct:title">Naohisa Fukuoka</span></a>
   has waived all copyright and related or neighboring rights to
-  <span property="dct:title">SourceManagementManual_usingGitLab</span>.
+  <span property="dct:title">4family</span>.
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
-      content="JP" about="https://gitlab.com/fknaopen/doc_scm_gitlab">
+      content="JP" about="https://github.com/fknaopen/4family">
   日本</span>.
 </p>
